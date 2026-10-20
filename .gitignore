@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.spec
+build/
+dist/
+
+# Large Standalone Binaries (>100MB exceeds GitHub push limits)
+bin/
+*.exe
+
+# Video & Media Files
+*.mp4
+*.mkv
+*.mov
+*.avi
+*.webm
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# IDE & OS
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+*.lnk
+
